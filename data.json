@@ -1,0 +1,44 @@
+[
+    {
+        "nombre": "Jamon cocido",
+        "precio": 350,
+        "stock": 30,
+        "marca": "Paladini"
+    },
+    {
+        "nombre": "Queso en fetas",
+        "precio": 270,
+        "stock": 45,
+        "marca": "Pategras"
+    },
+    {
+        "nombre": "Salame",
+        "precio": 375,
+        "stock": 28,
+        "marca": "214"
+    },
+    {
+        "nombre": "Mortadela",
+        "precio": 235,
+        "stock": 40,
+        "marca": "Ricarda"
+    },
+    {
+        "nombre": "Jamon crudo",
+        "precio": 410,
+        "stock": 25,
+        "marca": "Ricarda"
+    },
+    {
+        "nombre": "Fiambrin",
+        "precio": 295,
+        "stock": 20,
+        "marca": "Ricarda"
+    },
+    {
+        "nombre": "Salchichon Primavera",
+        "precio": 320,
+        "stock": 40,
+        "marca": "Ricarda"
+    }
+]

@@ -1,0 +1,13 @@
+<h2>Listado de Fiambres</h2>
+
+<ul>
+    {{#each fiambres}}
+    <li> {{this.nombre}} - {{this.precio}} - {{this.stock}} </li>
+</ul>
+{{#if hasPrevPage}}
+    <a href="/fiambres?page={{prevPage}}">Anterior</a>
+{{/if}}
+{{#if hasNextPage}}
+    <a href="/fiambres?page={{nextPage}}">Siguiente</a>
+{{/if}}
+<p> Paginas {{currentPage}} de {{totalPages}}</p>
