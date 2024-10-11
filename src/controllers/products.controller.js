@@ -1,5 +1,4 @@
 import Product from '../models/products.model.js';
-import mongoosePaginate from 'mongoose-paginate-v2';
 
 
 
